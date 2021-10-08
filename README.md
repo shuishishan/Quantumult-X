@@ -1,2 +1,2 @@
-# icon
-icon for mobile
+# quantumult x
+自用
