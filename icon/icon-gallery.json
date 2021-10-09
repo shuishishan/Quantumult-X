@@ -1,45 +1,45 @@
-{"name":"Package Name", 
-    "description":"This is a sample.", 
+{"name":"Icon Package", 
+    "description":"This is a Icon.", 
     "icons":[
       {
-        "name":"Icon-Name-1", 
+        "name":"cn", 
         "url":"https:\/\/raw.githubusercontent.com\/shuishishan\/Quantumult-X\/main\/icon\/icon-samples\/cn.PNG"
       }, 
       {
-        "name":"Icon-Name-2", 
+        "name":"us", 
         "url":"https:\/\/raw.githubusercontent.com\/shuishishan\/Quantumult-X\/master\/icon-samples\/us.PNG"
       }, 
       {
-        "name":"Icon-Name-3", 
+        "name":"google", 
         "url":"https:\/\/raw.githubusercontent.com\/shuishishan\/Quantumult-X\/master\/icon-samples\/google.PNG"
       }, 
       {
-        "name":"Icon-Name-2", 
-        "url":"https:\/\/raw.githubusercontent.com\/shuishishan\/Quantumult-X\/master\/icon-samples\/us.PNG"
+        "name":"apple", 
+        "url":"https:\/\/raw.githubusercontent.com\/shuishishan\/Quantumult-X\/master\/icon-samples\/apple.PNG"
       },
       {
-        "name":"Icon-Name-2", 
-        "url":"https:\/\/raw.githubusercontent.com\/shuishishan\/Quantumult-X\/master\/icon-samples\/us.PNG"
+        "name":"hulu", 
+        "url":"https:\/\/raw.githubusercontent.com\/shuishishan\/Quantumult-X\/master\/icon-samples\/hulu.PNG"
       }, 
       {
-        "name":"Icon-Name-2", 
-        "url":"https:\/\/raw.githubusercontent.com\/shuishishan\/Quantumult-X\/master\/icon-samples\/us.PNG"
+        "name":"iqiyi", 
+        "url":"https:\/\/raw.githubusercontent.com\/shuishishan\/Quantumult-X\/master\/icon-samples\/iqiyi.PNG"
       }, 
       {
-        "name":"Icon-Name-2", 
-        "url":"https:\/\/raw.githubusercontent.com\/shuishishan\/Quantumult-X\/master\/icon-samples\/us.PNG"
+        "name":"netflix", 
+        "url":"https:\/\/raw.githubusercontent.com\/shuishishan\/Quantumult-X\/master\/icon-samples\/netflix.PNG"
       }, 
       {
-        "name":"Icon-Name-2", 
-        "url":"https:\/\/raw.githubusercontent.com\/shuishishan\/Quantumult-X\/master\/icon-samples\/us.PNG"
+        "name":"spotify", 
+        "url":"https:\/\/raw.githubusercontent.com\/shuishishan\/Quantumult-X\/master\/icon-samples\/spotify.PNG"
       }, 
       {
-        "name":"Icon-Name-2", 
-        "url":"https:\/\/raw.githubusercontent.com\/shuishishan\/Quantumult-X\/master\/icon-samples\/us.PNG"
+        "name":"telegram", 
+        "url":"https:\/\/raw.githubusercontent.com\/shuishishan\/Quantumult-X\/master\/icon-samples\/telegram.PNG"
       }, 
       {
-        "name":"Icon-Name-2", 
-        "url":"https:\/\/raw.githubusercontent.com\/shuishishan\/Quantumult-X\/master\/icon-samples\/us.PNG"
+        "name":"youtube", 
+        "url":"https:\/\/raw.githubusercontent.com\/shuishishan\/Quantumult-X\/master\/icon-samples\/youtube.PNG"
       }
     ]
 }
