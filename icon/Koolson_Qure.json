@@ -1,0 +1,11 @@
+{
+    "name":"Icon Koolson Qure", 
+    "description":"This is a Icon.", 
+    "icons":
+    [
+      {
+        "name":"5iTV", 
+        "url":"https:\/\/raw.githubusercontent.com\/Koolson\/Qure\/master\/IconSet\/5iTV.png"
+      }
+    ]
+}
