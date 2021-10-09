@@ -7,39 +7,39 @@
       }, 
       {
         "name":"us", 
-        "url":"https:\/\/raw.githubusercontent.com\/shuishishan\/Quantumult-X\/master\/icon-samples\/us.PNG"
+        "url":"https:\/\/raw.githubusercontent.com\/shuishishan\/Quantumult-X\/main\/icon\/icon-samples\/us.PNG"
       }, 
       {
         "name":"google", 
-        "url":"https:\/\/raw.githubusercontent.com\/shuishishan\/Quantumult-X\/master\/icon-samples\/google.PNG"
+        "url":"https:\/\/raw.githubusercontent.com\/shuishishan\/Quantumult-X\/main\/icon\/icon-samples\/google.PNG"
       }, 
       {
         "name":"apple", 
-        "url":"https:\/\/raw.githubusercontent.com\/shuishishan\/Quantumult-X\/master\/icon-samples\/apple.PNG"
+        "url":"https:\/\/raw.githubusercontent.com\/shuishishan\/Quantumult-X\/main\/icon\/icon-samples\/apple.PNG"
       },
       {
         "name":"hulu", 
-        "url":"https:\/\/raw.githubusercontent.com\/shuishishan\/Quantumult-X\/master\/icon-samples\/hulu.PNG"
+        "url":"https:\/\/raw.githubusercontent.com\/shuishishan\/Quantumult-X\/main\/icon\/icon-samples\/hulu.PNG"
       }, 
       {
         "name":"iqiyi", 
-        "url":"https:\/\/raw.githubusercontent.com\/shuishishan\/Quantumult-X\/master\/icon-samples\/iqiyi.PNG"
+        "url":"https:\/\/raw.githubusercontent.com\/shuishishan\/Quantumult-X\/main\/icon\/icon-samples\/iqiyi.PNG"
       }, 
       {
         "name":"netflix", 
-        "url":"https:\/\/raw.githubusercontent.com\/shuishishan\/Quantumult-X\/master\/icon-samples\/netflix.PNG"
+        "url":"https:\/\/raw.githubusercontent.com\/shuishishan\/Quantumult-X\/main\/icon\/icon-samples\/netflix.PNG"
       }, 
       {
         "name":"spotify", 
-        "url":"https:\/\/raw.githubusercontent.com\/shuishishan\/Quantumult-X\/master\/icon-samples\/spotify.PNG"
+        "url":"https:\/\/raw.githubusercontent.com\/shuishishan\/Quantumult-X\/main\/icon\/icon-samples\/spotify.PNG"
       }, 
       {
         "name":"telegram", 
-        "url":"https:\/\/raw.githubusercontent.com\/shuishishan\/Quantumult-X\/master\/icon-samples\/telegram.PNG"
+        "url":"https:\/\/raw.githubusercontent.com\/shuishishan\/Quantumult-X\/main\/icon\/icon-samples\/telegram.PNG"
       }, 
       {
         "name":"youtube", 
-        "url":"https:\/\/raw.githubusercontent.com\/shuishishan\/Quantumult-X\/master\/icon-samples\/youtube.PNG"
+        "url":"https:\/\/raw.githubusercontent.com\/shuishishan\/Quantumult-X\/main\/icon\/icon-samples\/youtube.PNG"
       }
     ]
 }
