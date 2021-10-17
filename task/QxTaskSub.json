@@ -1,0 +1,7 @@
+{
+ "name": "task gallery",
+ "description": "tasktask",
+ "task": [
+    {"config":"1 0 * * * https://raw.githubusercontent.com/dompling/Script/master/jd/jd_jr_sign.js, tag=金融领豆, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdyz.png, enabled=true", "addons":"https://raw.githubusercontent.com/dompling/Quantumult-X/main/rewrite/get_jdjr_cookie.conf"}
+  ]
+}
