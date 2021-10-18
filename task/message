@@ -1,3 +1,5 @@
+在Surge、Loon、QuantumultX中执行以下代码，将链接写入(如何执行代码请自己动手解决)。
+
 # 开启所有脚本统一推送
 $prefs.setValueForKey("https://api.day.app/VXTWvaQ18N29bsQAg7DgkT", "magicjs_unified_push_url");
 
