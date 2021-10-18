@@ -1,0 +1,5 @@
+# 开启所有脚本统一推送
+$prefs.setValueForKey("https://api.day.app/VXTWvaQ18N29bsQAg7DgkT", "magicjs_unified_push_url");
+
+# 关闭所有脚本统一推送
+$prefs.setValueForKey("", "magicjs_unified_push_url");
